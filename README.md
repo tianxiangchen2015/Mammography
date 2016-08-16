@@ -12,8 +12,10 @@ Required Hardware:
     GPU: GRID K520, 4GB memory. (You can reduce the batch sizes if you don't have enough memory)
 
 Datasets: 
-
-    The dataset for training contains 3 classes, “benign” (102 images), “cancers” (177 images) and “normal” (399 images). Dataset is unbalanced. All the images are has 256 by 256 pixels and approximately 70 KB, stored in “.png” format. (Private dataset)
+    The dataset for training contains 3 classes, 
+    “benign” (102 images), “cancers” (177 images) and “normal” (399 images).
+    Dataset is unbalanced. 
+    All the images are has 256 by 256 pixels and approximately 70 KB, stored in “.png” format. (Private dataset)
 
 Results:
     benign = 0 ; Cancer = 1; Normal = 2
